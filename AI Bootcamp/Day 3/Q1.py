@@ -1,4 +1,5 @@
 def greet(name):
     print("Hello, ",name,"!")
-    
-greet ("Priyanshu")
+
+n=input("Enter a Name")
+greet(n)
